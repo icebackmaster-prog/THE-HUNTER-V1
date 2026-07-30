@@ -1,16 +1,16 @@
 const settings = {
-  packname: 'Knight Bot',
-  author: '‎',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
-  giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
-  maxStoreMessages: 20, 
-  storeWriteInterval: 10000,
-  description: "This is a bot for managing group commands and automating tasks.",
-  version: "3.0.7",
-  updateZipUrl: "https://github.com/mruniquehacker/Knightbot-MD/archive/refs/heads/main.zip",
+    package: 'The Hunter V1',
+    author: 'iceback master tech',
+    botName: "The Hunter V1",
+    botOwner: 'iceback master tech', // Your name
+    ownerNumber: '263788377887',     // Your number (without '+')
+    giphyApiKey: 'qn17ssQChTdPjsKta2Ax2LMaGXz30', // keep or change
+    commandMode: "public",
+    maxStoreMessages: 20,
+    storeWriteInterval: 10000,
+    description: "This is a bot for managing grocery store", // change as you like
+    version: "3.0.7",
+    updateZipUrl: "https://github.com/your-username/the-hunter-v1", // optional
 };
 
 module.exports = settings;
